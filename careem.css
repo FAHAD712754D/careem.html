@@ -26,7 +26,7 @@ nav {
 }
 
 .cr_link ul li a {
-  color: aqua;
+  color: rgb(0, 235, 235);
   text-decoration: none;
   padding: 3px;
 }
@@ -75,7 +75,7 @@ nav {
   position: relative;
 }
 
-.box_arrow {
+.box_arrow right {
     position: absolute;
     bottom: 10px;
     right: 10px;
